@@ -1,0 +1,24 @@
+{
+    "hand_animation_on_swap": false,
+    "model": {
+        "type": "select",
+        "cases": [
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "cc2:item/icon/jump"
+                },
+                "when": [
+                    "gui",
+                    "ground",
+                    "fixed"
+                ]
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "cc2:item/wands/jump"
+        },
+        "property": "minecraft:display_context"
+    }
+}

@@ -1,0 +1,215 @@
+{
+
+    "intro.text1": "Welcome to Conjure Clash 2!",
+    "intro.text2": "\nYou use your %s to use your wands, and don't run out of mana!",
+    "intro.text3": "\nYou can get started by selecting your wands in the Enderchest",
+
+    "select.wand.text": "Use the Enderchest to\n select your wands!",
+
+    "tnt.wand.name": "TNT Wand",
+    "tnt.wand.description": "KABLOOM! Boom!",
+    "tnt.wand.explosion": "Explosion Radius: 5",
+    "tnt.wand.distance": "Wand Range: 100 Blocks",
+
+    "bomb.wand.name": "Bomb Wand",
+    "bomb.wand.description": "More powerful TNT, but has longer fuse and shorter range.",
+    "bomb.wand.explosion": "Explosion Radius: 10",
+    "bomb.wand.distance": "Wand Range: 75 Blocks",
+
+    "seeking.wand.name": "Seeking Wand",
+    "seeking.wand.description": "Places TNT in your oppontents location!",
+    "seeking.wand.shift_desc": "SHIFT ABILITY: Places the TNT underneath your opponents!",
+    "seeking.wand.explosion": "Explosion Radius: 5",
+    "seeking.wand.distance": "Wand Range: <30 Blocks",
+
+    "fireball.wand.name": "Fireball Wand",
+    "fireball.wand.description": "Throws a fireball at the direction you're looking!",
+    "fireball.wand.explosion": "Explosion Radius: 10",
+    
+    "rocket.wand.name": "Rocket Wand",
+    "rocket.wand.description": "Blast off towards the sky!",
+    "rocket.wand.movement": "Movement Distance: 20 Blocks",
+    
+    "platform.wand.name": "Platform Wand",
+    "platform.wand.description": "Quite handy when you are falling down.",
+    
+    "teleport.wand.name": "Teleport Wand",
+    "teleport.wand.description": "Teleports to where you're looking.",
+    "teleport.wand.shift_desc": "SHIFT ABILITY: Teleports you randomly in a 30 block radius!",
+    "teleport.wand.movement": "Movement Distance: 30 Blocks",
+    
+    "jump.wand.name": "Jump Wand",
+    "jump.wand.description": "Leap in the direction you're looking at.",
+    "jump.wand.movement": "Movement Distance: 25 Blocks",
+
+    "death.message0": "%s died.",
+    "death.message1": "/kill %s.",
+    "death.message2": "%s failed a wizard competition.",
+    "death.message3": "%s's life depended on that trick shot.",
+    "death.message4": "%s thought the void was a safe space.",
+    "death.message5": "%s tried to use OP.",
+    "death.message6": "%s was accused of stealing dimaonds.",
+    "death.message7": "%s used an outdated meme.",
+    "death.message8": "The minecraft gods did not bless %s's trickshot.",
+    "death.message9": "HEY GUYS, %s died!",
+    "death.message10": "@%s failed the shot.",
+    "death.message11": "Yikes... %s, that death was embarrassing.",
+    "death.message12": "Xx__%s__xX tried to 360 noscope that, but failed.",
+    "death.message13": "%s blew up.",
+    "death.message14": "%s wanted to impress their crush.",
+    "death.message15": "%s met their fate.",
+
+
+    
+    "mana.message": "Mana: %s/%s",
+
+    "select.wand.message": "You picked the %s as your %s",
+    "select.hats.message": "You have picked the %s as your hat",
+
+
+    "select.hat.item": "%s (Right Click to join)",
+    "select.hat.message": "You joined %s",
+    "select.hat.playing": "You are now playing!",
+    "select.hat.spec": "You are now specating",
+    
+    "win.text": "Winners: %s",
+    "tie.text": "Tie Game!",
+    
+    
+    "setting.max_mana.text": "Max Mana: %s",
+    "setting.map.selected": "Selected Map:\n%s",
+    "setting.events.text": "Time untill next Event:\n%s§6m",
+    "setting.events.text_off": "Time until next Event:\n%s",
+
+    "setting.border.text": "Time Untill Border Shrinks:\n%s§6m",
+    "setting.border.text_off": "Time Untill Border Shrinks:\n%s",
+    "setting.randomize.text": "Randomize Teams",
+    "setting.gamemode.text": "Gamemode: \n%s",
+    "setting.gamemode.text.teams": "§9Teams",
+    "setting.gamemode.text.ffa": "§aFFA",
+    "setting.entrance.text": "Settings\nCave",
+    "setting.entrance_teleport.text": "Teleport to Settings",
+    "setting.exit_teleport.text": "Return to the Lobby",
+
+    
+    "team.color.blue": "Blue Team",
+    "team.color.red": "Red Team",
+    "team.color.spec": "Spectate",
+    "team.color.playing": "Playing",
+
+    "map.name.nether": "Nether",
+    "map.name.classic": "Classic",
+    "map.name.winter": "Winter",
+    "map.name.desert": "Desert",
+    "map.name.mineshaft": "Mineshaft",
+
+    "wand.slot.1": "Explosive Wand",
+    "wand.slot.2": "Movement Wand",
+
+    "setting.text.on": "ON",
+    "setting.text.off": "OFF",
+
+    "error.buildheight.text": "BUILD HEIGHT reached!",
+    "error.noplayers.text": "No players detected nearby.",
+    "warn.border.text": "Border is shrinking!",
+    
+    "event.over": "EVENT OVER",
+    "event.text": "EVENT: %s",
+    "event.tntrain.title": "TNT RAIN",
+    "event.tntrain.descrption": "TNT will start falling around the map.",
+    
+    "event.mana.title": "2x Mana",
+    "event.mana.descrption": "The amount of mana you recive has now been mutiplied by 2.",
+    
+    "event.big.title": "Bigger!",
+    "event.big.descrption": "Player's size has been increased 3x, along side with their interaction range.",
+
+    "event.lowgravity.title": "Lowered Gravity!",
+    "event.lowgravity.descrption": "Gravity has been lowered, so you can feel like your on the moon!",
+
+    "event.suction.title": "Suction Cups!",
+    "event.suction.descrption": "Gravity has been increased, so you're now stuck on land.",
+
+    "event.fie.title": "Floor Is Explosive!",
+    "event.fie.description": "Touching the floor results in a fiery explosion!",
+
+    "advancement.start.name": "Conjure Clash 2!",
+    "advancement.start.desc": "Join the game for the first time!",
+    
+    "advancement.win.name": "Magical Wins!",
+    "advancement.win.desc": "Win a game!",
+    
+    "advancement.firstblood.name": "Shots Exploded!",
+    "advancement.firstblood.desc": "Get your very first kill.",
+
+    "advancement.killteam.name": "Friendly Fire Activated",
+    "advancement.killteam.desc": "Kill your own teammate.",
+    
+    "advancement.wandexpert.name": "Wand Expert",
+    "advancement.wandexpert.desc": "Use all the wands.",
+
+    "advancement.tie.name": "Win? Lose? A tie!",
+    "advancement.tie.desc": "Have a match end up in a tie.",
+    
+    "advancement.perfectmana.name": "No Mana Left Behind",
+    "advancement.perfectmana.desc": "Don't use any mana during an entire game!",
+
+    "advancement.mapexplorer.name": "Map Explorer",
+    "advancement.mapexplorer.desc": "Play on all the maps, including their variants.",
+
+    "advancement.winallmaps.name": "Map Winner!",
+    "advancement.winallmaps.desc": "Win on all maps and their variant.",
+
+    "advancement.noexplosive.name": "Anti-Explosive",
+    "advancement.noexplosive.desc": "Don't use your explosive-based wand the entire game.",
+
+    "advancement.nomovement.name": "Land Lover",
+    "advancement.nomovement.desc": "Don't use your movement-based wand the entire game.",
+
+    "advancement.fireball.name": "Did I Ask How Big The Room Was?",
+    "advancement.fireball.desc": "Kill someone with a Fireball Wand while being 10 Blocks or less away.",
+    
+    "advancement.height.name": "To The Skies!",
+    "advancement.height.desc": "Reach Y = 200 or higher.",
+    
+    "advancement.500mana.name": "Mana Control",
+    "advancement.500mana.desc": "Win a game with the mana limit set to 500.",
+
+    "enderchest.menu.back": "Go back",
+
+    "enderchest.menu.explosive": "Explosive Wands",
+    "enderchest.menu.explosive.lore": "Pick your explosive wand!",
+
+    "enderchest.menu.movement": "Movement Wands",
+    "enderchest.menu.movement.lore": "Pick your movement wand!",
+
+    "enderchest.menu.hats": "Hats",
+    "enderchest.menu.hats.lore": "Wear fashionable hats during battle!",
+
+    "enderchest.hats.none": "No Hat",
+    "enderchest.hats.none.desc": "Proud of your bald head?",
+
+    "enderchest.hats.wizard": "Wizard's Hat",
+    "enderchest.hats.wizard.desc": "You're a wizard!",
+
+    "enderchest.hats.crown": "The Crown",
+    "enderchest.hats.crown.desc": "Wear a crown that signals your victory!",
+
+    "enderchest.hats.rocket": "Space Helmet",
+    "enderchest.hats.rocket.desc": "One small step for something.. idk man.",
+
+    "enderchest.hats.avaiable": "Available",
+    "enderchest.hats.unavaiable": "Requires - %s achivement",
+
+    "start.error.teamred": "Not enough people on team Red!",
+    "start.error.teamblue": "Not enough people on team Blue!",
+    "start.error.empty": "Not enough people are on either teams!",
+
+    "start.error.playerempty": "Not enough players available.",
+
+    "border.message.bossbar": "Time until Border shrinks:",
+
+    "gameMode.changed": ""
+
+
+ }

@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "cc2:item/gui/menu/back"
+    },
+    "display": {
+        "gui": {
+            "scale": [1.13, 1.13, 1]
+        }
+    }
+}

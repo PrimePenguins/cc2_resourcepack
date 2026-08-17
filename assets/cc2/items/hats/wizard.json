@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "unavaible",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cc2:item/hats/wizards_hat",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 9079434
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "cc2:item/hats/wizards_hat",
+      "tints": [
+        {
+          "type": "minecraft:team",
+          "default": 9079434
+        }
+      ]
+    }
+  }
+}

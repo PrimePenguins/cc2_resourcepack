@@ -1,0 +1,48 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "custom_model_data",
+        "entries": [
+            {
+                "threshold": 0,
+                "model": {
+                    "type": "model",
+                    "model": "cc2:item/maps/nether_map"
+                }
+            },
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "cc2:item/maps/classic_map"
+                }
+            },
+                        {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "cc2:item/maps/winter_map"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "cc2:item/maps/desert_map"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "cc2:item/maps/mineshaft_map"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "item/stick"
+        }
+    }
+
+}

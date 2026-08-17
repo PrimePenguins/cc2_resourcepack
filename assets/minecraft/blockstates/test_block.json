@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "mode=fail": {
+            "model": "minecraft:block/bomb"
+        }
+    }
+}

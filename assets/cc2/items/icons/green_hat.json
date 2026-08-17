@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "cc2:item/icon/wizard",
+    "tints": [
+      {
+        "type": "constant",
+        "value": 4912455
+      }
+    ]
+  }
+}

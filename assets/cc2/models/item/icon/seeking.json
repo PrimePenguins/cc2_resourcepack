@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "cc2:item/gui/wands/seeking_icon"
+    }
+}
