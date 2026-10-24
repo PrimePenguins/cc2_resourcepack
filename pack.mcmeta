@@ -1,6 +1,9 @@
 {
-    "pack": {
-        "description": "Conjure Clash 2 texture pack",
-        "pack_format": 88
-    }
+  "pack": {
+    "pack_format": 97,
+    "supported_formats": [4, 99],
+    "min_format": [4, 0],
+    "max_format": [99, 0],
+    "description": "Conjure Clash 2 Recourse Pack"
+  }
 }

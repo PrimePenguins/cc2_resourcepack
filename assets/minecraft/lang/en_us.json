@@ -21,10 +21,16 @@
     "seeking.wand.shift_desc": "SHIFT ABILITY: Places the TNT underneath your opponents!",
     "seeking.wand.explosion": "Explosion Radius: 5",
     "seeking.wand.distance": "Wand Range: <30 Blocks",
+    
 
     "fireball.wand.name": "Fireball Wand",
     "fireball.wand.description": "Throws a fireball at the direction you're looking!",
     "fireball.wand.explosion": "Explosion Radius: 10",
+    
+    "random_explode.wand.name": "????",
+    "random_explode.wand.description": "You will get a random wand.",
+    "random_explode.wand.explosion": "Explosion Radius: ??",
+    "random_explode.wand.distance": "Wand Range: ?? Blocks",
     
     "rocket.wand.name": "Rocket Wand",
     "rocket.wand.description": "Blast off towards the sky!",
@@ -41,6 +47,10 @@
     "jump.wand.name": "Jump Wand",
     "jump.wand.description": "Leap in the direction you're looking at.",
     "jump.wand.movement": "Movement Distance: 25 Blocks",
+    
+    "random_move.wand.name": "????",
+    "random_move.wand.description": "You will get a random wand.",
+    "random_move.wand.movement": "Movement Distance: ?? Blocks",
 
     "death.message0": "%s died.",
     "death.message1": "/kill %s.",
@@ -59,18 +69,15 @@
     "death.message14": "%s wanted to impress their crush.",
     "death.message15": "%s met their fate.",
 
-
-    
     "mana.message": "Mana: %s/%s",
 
     "select.wand.message": "You picked the %s as your %s",
     "select.hats.message": "You have picked the %s as your hat",
 
-
     "select.hat.item": "%s (Right Click to join)",
-    "select.hat.message": "You joined %s",
-    "select.hat.playing": "You are now playing!",
-    "select.hat.spec": "You are now specating",
+    "select.hat.message": "You are currently on the %s",
+    "select.hat_spec.message": "You are currently Spectating §e(Right Click a hat to join a team!)",
+    "select.hat_playing.message": "You are currently %s",
     
     "win.text": "Winners: %s",
     "tie.text": "Tie Game!",
@@ -91,6 +98,7 @@
     "setting.entrance_teleport.text": "Teleport to Settings",
     "setting.exit_teleport.text": "Return to the Lobby",
 
+    "error.is_ffa.gamemode": "You are on the FFA gamemode!",
     
     "team.color.blue": "Blue Team",
     "team.color.red": "Red Team",
@@ -209,7 +217,7 @@
 
     "border.message.bossbar": "Time until Border shrinks:",
 
-    "gameMode.changed": ""
+    "gameMode.changed": "",
 
-
+    "game.start": "Start"
  }
